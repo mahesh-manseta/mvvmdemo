@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">FolderMemoryChecker</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="message_hold_on">Hold on&#8230;</string>
+    <string name="message_error">Something went wrong, please try later.</string>
+    <string name="message_no_data">No data found.</string>
+    <string name="tag_data">Tag Data</string>
+    <string name="tag_index">Tag Index</string>
+    <string name="label_see_more">See More</string>
+    <string name="label_read_more">Read More</string>
+    <string name="message_created_by">CREATED BY %S</string>
+    <string name="label_app_title">Android Developer</string>
+    <string name="message_concat_double">%s %s</string>
+    <string name="message_connection">Check your connection</string>
+    <string name="label_about">ABOUT</string>
+    <string name="label_where">WHERE TO EAT</string>
+    <string name="label_best">BEST %S DISHES</string>
+    <string name="label_photos">PHOTOS</string>
+    <string name="label_retry">RETRY</string>
+    <string name="label_filter">Group By</string>
+    <string name="label_filter_artist">Group By Artist</string>
+    <string name="label_filter_genre">Group By Genre</string>
+    <string name="label_cancel">Cancel</string>
+    <string name="label_save">Save</string>
+</resources>
